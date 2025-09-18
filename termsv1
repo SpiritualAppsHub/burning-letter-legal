@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Burning Letters</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fafafa;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 30px;
+            background: linear-gradient(135deg, #ff6b35, #f7931e);
+            border-radius: 15px;
+            color: white;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.2em;
+            font-weight: 300;
+        }
+        .header .subtitle {
+            font-size: 1.1em;
+            margin: 10px 0;
+            opacity: 0.9;
+        }
+        .header .version {
+            font-size: 0.9em;
+            margin: 5px 0;
+            opacity: 0.8;
+        }
+        .content {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #ff6b35;
+            border-bottom: 2px solid #ff6b35;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #f7931e;
+            margin-top: 25px;
+        }
+        .important {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .contact-info {
+            background: #f8f9fa;
+            border-left: 4px solid #ff6b35;
+            padding: 20px;
+            margin: 30px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        .final-agreement {
+            background: #e9ecef;
+            padding: 20px;
+            margin: 30px 0;
+            border-radius: 8px;
+            font-weight: 500;
+            text-align: center;
+        }
+        ul, ol {
+            margin: 15px 0;
+            padding-left: 25px;
+        }
+        li {
+            margin: 8px 0;
+        }
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, #ff6b35, transparent);
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>TERMS OF SERVICE</h1>
+        <div class="subtitle"><strong>Burning Letters – The Ritual of Release</strong></div>
+        <div class="version"><strong>Version 1.0</strong></div>
+        <div class="version"><strong>Last Updated: September 18, 2025</strong></div>
+    </div>
+
+    <div class="content">
+        <hr>
+
+        <h2>1. ACCEPTANCE OF TERMS</h2>
+        <p>By downloading, installing, or using the Burning Letters – The Ritual of Release mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.</p>
+
+        <h2>2. DESCRIPTION OF SERVICE</h2>
+        <p>Burning Letters is a digital wellness application designed for emotional release and personal reflection. The App allows users to write thoughts, feelings, or concerns on a virtual parchment and symbolically "burn" them through a digital animation as a form of therapeutic ritual and release.</p>
+
+        <h2>3. AGE RESTRICTIONS</h2>
+        <p>This App is intended for users aged 13 years and older. Users under 18 years of age should use this App under parental guidance and supervision. If you are under 13, you may not use this App.</p>
+
+        <h2>4. LICENSE TO USE</h2>
+        <p>We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes in accordance with these Terms. You may not:</p>
+        <ul>
+            <li>Copy, modify, or distribute the App</li>
+            <li>Reverse engineer or attempt to extract source code</li>
+            <li>Use the App for any illegal or unauthorized purposes</li>
+            <li>Attempt to gain unauthorized access to any part of the App</li>
+        </ul>
+
+        <h2>5. PRIVACY AND DATA</h2>
+        
+        <h3>No Data Storage</h3>
+        <div class="important">
+            <p>The App is designed with privacy in mind. We do not collect, store, or transmit any of your written content, personal information, or usage data. All content you create within the App remains solely on your device and is not accessible to us or any third parties.</p>
+        </div>
+
+        <h3>Anonymous Use</h3>
+        <p>No account creation or personal information is required to use the App.</p>
+
+        <h2>6. PAYMENT AND PURCHASES</h2>
+        <p>The App is available as a one-time purchase through the Apple App Store. All payments are processed by Apple, and their terms and conditions apply to all transactions.</p>
+
+        <h2>7. DISCLAIMERS AND LIMITATIONS</h2>
+
+        <h3>Not Medical or Therapeutic Advice</h3>
+        <div class="important">
+            <p>This App is intended for entertainment, relaxation, and personal reflection purposes only. It is NOT a substitute for professional medical, psychological, or therapeutic treatment. If you are experiencing mental health issues, please consult with a qualified healthcare professional.</p>
+        </div>
+
+        <h3>Symbolic Nature</h3>
+        <p>The "burning" feature is entirely symbolic and digital. The App does not promote or encourage any real-world burning activities or potentially dangerous behaviors.</p>
+
+        <h3>No Guarantees</h3>
+        <p>We make no guarantees about the effectiveness of the App for emotional release, stress reduction, or any therapeutic benefits. Results may vary from person to person.</p>
+
+        <h2>8. LIMITATION OF LIABILITY</h2>
+        <p><strong>TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES RESULTING FROM YOUR USE OF THE APP.</strong></p>
+
+        <h2>9. INTELLECTUAL PROPERTY</h2>
+        <p>The App, including all content, features, and functionality, is owned by us and is protected by copyright, trademark, and other intellectual property laws. You may not use our intellectual property without our express written permission.</p>
+
+        <h2>10. PROHIBITED USES</h2>
+        <p>You may not use the App:</p>
+        <ul>
+            <li>For any unlawful purpose or to solicit others to commit unlawful acts</li>
+            <li>To violate any international, federal, provincial, or state regulations, rules, laws, or local ordinances</li>
+            <li>To infringe upon or violate our intellectual property rights or the intellectual property rights of others</li>
+            <li>To harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate</li>
+            <li>In any way that impairs the functionality of the App</li>
+        </ul>
+
+        <h2>11. TERMINATION</h2>
+        <p>We may terminate or suspend your access to the App immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
+
+        <h2>12. CHANGES TO TERMS</h2>
+        <p>We reserve the right to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect.</p>
+
+        <h2>13. GOVERNING LAW</h2>
+        <p>These Terms shall be interpreted and governed by the laws of England and Wales, United Kingdom, without regard to its conflict of law provisions. Any disputes relating to these Terms shall be subject to the exclusive jurisdiction of the courts of England and Wales.</p>
+
+        <h2>14. SEVERABILITY</h2>
+        <p>If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.</p>
+
+        <h2>15. ENTIRE AGREEMENT</h2>
+        <p>These Terms constitute the entire agreement between you and us regarding the use of the App and supersede all prior and contemporaneous written or oral agreements between you and us.</p>
+
+        <h2>16. CONTACT INFORMATION</h2>
+        <div class="contact-info">
+            <p>For questions about these Terms of Service, please contact us at:</p>
+            <p><strong>Email:</strong> la.fuente@icloud.com</p>
+        </div>
+
+        <hr>
+
+        <div class="final-agreement">
+            <p><strong>By using Burning Letters – The Ritual of Release, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.</strong></p>
+        </div>
+    </div>
+</body>
+</html>
